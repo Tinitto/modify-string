@@ -1,6 +1,5 @@
 # modify-string
 A simple program to modify a string.
-<<<<<<< HEAD
 
 # Task
 This is based on [this hackerearth challenge](https://www.hackerearth.com/problem/golf/modify-string/).
@@ -15,5 +14,3 @@ Create a simple program to modify a string input into it according to the follow
   containing numbers from 0 to that number. For example, if input letter is 3,
   then the output would be 0123 .
 - All other characters are printed without modification.
-=======
->>>>>>> 09c11c5a3156d94e9266ca9b80975d926742fde9
